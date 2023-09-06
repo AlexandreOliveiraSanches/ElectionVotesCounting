@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\bin\Debug\net7.0\ElectionVotesCounting.exe
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\bin\Debug\net7.0\ElectionVotesCounting.deps.json
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\bin\Debug\net7.0\ElectionVotesCounting.runtimeconfig.json
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\bin\Debug\net7.0\ElectionVotesCounting.dll
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\bin\Debug\net7.0\ElectionVotesCounting.pdb
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.AssemblyInfo.cs
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.dll
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\refint\ElectionVotesCounting.dll
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.pdb
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ElectionVotesCounting.genruntimeconfig.cache
+C:\codigos\projetos C#\ElectionVotesCounting\ElectionVotesCounting\obj\Debug\net7.0\ref\ElectionVotesCounting.dll
